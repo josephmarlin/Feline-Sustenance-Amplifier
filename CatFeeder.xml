@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\josep\Documents\dev\KiCAD\CatFeeder\CatFeeder.kicad_sch</source>
+    <date>12/4/2022 5:38:19 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Cat Feeder Controller</title>
+        <company>Beaumont Aerodrome Corp</company>
+        <rev>-</rev>
+        <date/>
+        <source>CatFeeder.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>988c212e-a982-4cb9-a8fa-ad3b998e0e83</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1558a41-ecb4-4f38-9561-2f2c8d6c19ab</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47uF 16V</value>
+      <footprint>Capacitor_SMD:CP_Elec_5x5.4</footprint>
+      <fields>
+        <field name="PN">RVT1C470M0505</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="RVT1C470M0505"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7a8517a-3c87-45d6-a60d-5beff8c7ba71</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF 16V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33d27324-ea35-4630-9568-d012f1f6bdee</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100uF 25V</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <fields>
+        <field name="PN">SG-101M1EBK-0807</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="SG-101M1EBK-0807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>677bded5-3c8c-4efa-9df2-3dff80e62c6a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>680uF 16V</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <fields>
+        <field name="PN">KM681M016F115A</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="KM681M016F115A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eeceb21f-8bb7-47a0-bdf3-ee35f94ac806</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">CL05B104KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL05B104KO5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72d76812-3937-49f8-8557-6174f502b12a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.47uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="PN">CL10B474KA8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL10B474KA8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cceb0d18-417a-48d6-8d58-b91cf433ef41</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Current">25mA</field>
+        <field name="PN">19-217/GHC-YR1S2/3T</field>
+        <field name="Voltage">3.3V</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="19-217/GHC-YR1S2/3T"/>
+      <property name="Current" value="25mA"/>
+      <property name="Voltage" value="3.3V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d567bc79-722c-43a2-bdeb-01adbf0c0529</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="PN">SS34</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="PN" value="SS34"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5d8d228-4422-40bc-8fbe-37947c6ba0de</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>B5819W SL</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="PN">B5819W SL</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="PN" value="B5819W SL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>818b7662-8bff-4d92-a1d7-8f0cad07689b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SM4007PL</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <fields>
+        <field name="PN">SM4007PL</field>
+      </fields>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="PN" value="SM4007PL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0534577-4d6c-4c77-a0f8-46274d0b5d3e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Current">20mA</field>
+        <field name="PN">KT-0603R</field>
+        <field name="Voltage">2V .2W</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="PN" value="KT-0603R"/>
+      <property name="Voltage" value="2V .2W"/>
+      <property name="Current" value="20mA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6842bcf7-6151-499a-8140-f4ee7a56fa33</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5aea212-2b31-4593-90fc-151a090d3211</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>B3B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="MANUFACTURER">JST Sales America Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="PN">XH-3A</field>
+        <field name="SNAPEDA_PN">B3B-XH-A(LF)(SN)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B3B-XH-A(LF)(SN)" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="JST Sales America Inc."/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SNAPEDA_PN" value="B3B-XH-A(LF)(SN)"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7 mm"/>
+      <property name="PN" value="XH-3A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>814311eb-aa15-40ba-9ef5-df74cd255b7f</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal</footprint>
+      <fields>
+        <field name="PN">PJ-063AH</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="PN" value="PJ-063AH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b95898ec-5114-441f-b882-c1b691670d7f</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>B4B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="MANUFACTURER">JST Sales America Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="PN">XH-4A</field>
+        <field name="SNAPEDA_PN">B4B-XH-A(LF)(SN)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B4B-XH-A(LF)(SN)" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7 mm"/>
+      <property name="SNAPEDA_PN" value="B4B-XH-A(LF)(SN)"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="MANUFACTURER" value="JST Sales America Inc."/>
+      <property name="PN" value="XH-4A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>839cda28-3f9a-4cdd-8a0f-53d46a8b1039</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x08_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adb34af4-9eb4-48ba-b3af-c5b77c89a278</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x08_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca9bf0d0-e758-4ee2-aba9-12145ae7884e</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e6318ae-13c1-4233-ae20-04525b0db400</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3546b3b1-a155-4cf3-8938-58f86cefccfb</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64605772-5f24-4352-9b9e-6d5c1ec7c2c4</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b941f7a-738f-4a6a-b660-6eb44a561480</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>B2B-XH-A(LF)(SN)</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="MF">JST Sales</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PN">XH-2A</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MarlinLib" part="B2B-XH-A(LF)(SN)" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Through Hole 2 position 0.098 (2.50mm)"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="MP" value="B2B-XH-A(LF)(SN)"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="JST Sales"/>
+      <property name="PN" value="XH-2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6342f83a-f6e2-4873-80a6-2c5e1c80a5c0</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>15 uH</value>
+      <footprint>Marlin:SSL0804_Inductor_SMD</footprint>
+      <fields>
+        <field name="PN">SSL0804T-150M-N</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="PN" value="SSL0804T-150M-N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bf35d9a-06f0-4400-8e0b-8cb64d2020dd</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NPN_BEC</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="PN">MMBT2222A 1P</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="PN" value="MMBT2222A 1P"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e5efbbe-d9db-4dd7-88d5-2fd7380d0641</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NPN_BEC</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="PN">MMBT2222A 1P
+</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="PN" value="MMBT2222A 1P&#xA;"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc9c9b22-963b-4481-acfa-7cf508455ca2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>68R 1/10W</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="PN">0603WAF680JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0603WAF680JT5E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e897f7f8-beee-4997-916a-562d1390e838</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF1001TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF1001TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2a57d0c-8c78-44f8-acda-76db05a47b2c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>17.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="PN">TNPW060317K2BETA</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="TNPW060317K2BETA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ae38c48-8811-4d07-808d-d654318b614a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>24K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF2402TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF2402TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3be91d59-2962-4919-a462-aed5339fcf3b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>24K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF2402TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF2402TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff8c6dbf-a2c3-4883-8028-746990c6aa39</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>500R 1W 2512 </value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="PN">RC2512FK-7W100RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="RC2512FK-7W100RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0d6370b-d0a4-4da8-a6e4-110cd2c12073</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>30K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGD3002TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGD3002TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11d88204-9d61-4985-9e03-03faf4f08044</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF1002TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF1002TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfa94949-2f56-4bf6-bbee-fcd4f9a8163b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF2001TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF2001TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6919fa2c-97c1-459b-8fba-0673336fee29</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="PN">0402WGF2001TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="PN" value="0402WGF2001TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86a41814-418c-49fb-8d8a-ab43fca47e13</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SN74LVC1T45DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf</datasheet>
+      <libsource lib="Logic_LevelTranslator" part="SN74LVC1T45DBV" description="Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4454eb41-474a-4bf9-8a14-c5194815c057</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM2586SX-ADJ/NOPB_1</value>
+      <footprint>Package_TO_SOT_SMD:TO-263-7_TabPin8</footprint>
+      <fields>
+        <field name="PN">LM2586SX-ADJ/NOPB_1</field>
+      </fields>
+      <libsource lib="MarlinLib" part="LM2586SX-ADJ{slash}NOPB_1" description=""/>
+      <property name="PN" value="LM2586SX-ADJ/NOPB_1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffee3b48-14e9-44dc-900b-58c4d23c58ab</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DRV8871DDA</value>
+      <footprint>Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv8871.pdf</datasheet>
+      <libsource lib="Driver_Motor" part="DRV8871DDA" description="Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CatFeeder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>180f2901-267f-4916-b932-fad189cf02b8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Female">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N914">
+      <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
+      <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N914</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/85622/1n914.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_Motor" part="DRV8871DDA">
+      <description>Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/drv8871.pdf</docs>
+      <footprints>
+        <fp>Texas*HTSOP*1EP*3.9x4.9mm*P1.27mm*EP2.95x4.9mm*Mask2.4x3.1mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV8871DDA</field>
+        <field name="Footprint">Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/drv8871.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IN2" type="input"/>
+        <pin num="3" name="IN1" type="input"/>
+        <pin num="4" name="ILIM" type="passive"/>
+        <pin num="5" name="VM" type="power_in"/>
+        <pin num="6" name="OUT1" type="output"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="OUT2" type="output"/>
+        <pin num="9" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Logic_LevelTranslator" part="SN74LVC1T45DBV">
+      <description>Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, SOT-23-6</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LVC1T45DBV</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="A" type="bidirectional"/>
+        <pin num="4" name="B" type="bidirectional"/>
+        <pin num="5" name="DIR" type="input"/>
+        <pin num="6" name="VCCB" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MarlinLib" part="B2B-XH-A(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B2B-XH-A(LF)(SN)</field>
+        <field name="Footprint">JST_B2B-XH-A(LF)(SN)</field>
+        <field name="DESCRIPTION">Connector Header Through Hole 2 position 0.098 (2.50mm)</field>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="MP">B2B-XH-A(LF)(SN)</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="MF">JST Sales</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MarlinLib" part="B3B-XH-A(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B3B-XH-A(LF)(SN)</field>
+        <field name="Footprint">JST_B3B-XH-A(LF)(SN)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">JST Sales America Inc.</field>
+        <field name="PARTREV">N/A</field>
+        <field name="SNAPEDA_PN">B3B-XH-A(LF)(SN)</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7 mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MarlinLib" part="B4B-XH-A(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B4B-XH-A(LF)(SN)</field>
+        <field name="Footprint">JST_B4B-XH-A(LF)(SN)</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7 mm</field>
+        <field name="SNAPEDA_PN">B4B-XH-A(LF)(SN)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">N/A</field>
+        <field name="MANUFACTURER">JST Sales America Inc.</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MarlinLib" part="LM2586SX-ADJ{slash}NOPB_1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2586SX-ADJ{slash}NOPB_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ON/OFF" type="input"/>
+        <pin num="2" name="Comp" type="input"/>
+        <pin num="3" name="Feedback" type="input"/>
+        <pin num="4" name="Gnd" type="input"/>
+        <pin num="5" name="Switch" type="output"/>
+        <pin num="6" name="Freq" type="input"/>
+        <pin num="7" name="Vin" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="DIODE">
+      <description>Diode, anode on pin 1, for simulation only!</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="INDUCTOR">
+      <description>Inductor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_Motor">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Driver_Motor.kicad_sym</uri>
+    </library>
+    <library logical="Logic_LevelTranslator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
+    </library>
+    <library logical="MarlinLib">
+      <uri>C:/Users/josep/Documents/KiCad/6.0/symbols/MarlinLib.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Simulation_SPICE.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCCA" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VCCB" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="Vin" pintype="input"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VM" pintype="power_in"/>
+    </net>
+    <net code="4" name="/DistEcho">
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="5" name="/DistTrig">
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="6" name="/LEDCtrl">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/LEDShifted">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/MtrCtrlA">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="9" name="/MtrCtrlB">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="10" name="/MtrOutA">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="11" name="/MtrOutB">
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="12" name="/PwrCtrl">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="Gnd" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="ON/OFF" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(L1-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="Switch" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Feedback" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="ILIM" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="Comp" pintype="input"/>
+    </net>
+    <net code="27" name="unconnected-(J5-Pad2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J5-Pad3)">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J5-Pad4)">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J5-Pad7)">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J5-Pad8)">
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J6-Pad7)">
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J6-Pad8)">
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="Freq" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
