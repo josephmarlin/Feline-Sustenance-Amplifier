@@ -1,8 +1,8 @@
 "Source:","C:\Users\josep\Documents\dev\KiCAD\CatFeeder\CatFeeder.kicad_sch"
-"Date:","12/4/2022 5:38:19 PM"
+"Date:","12/10/2022 5:32:11 PM"
 "Tool:","Eeschema (6.0.9)"
 "Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
-"Component Count:","40"
+"Component Count:","45"
 
 "Individual Components:"
 
@@ -44,9 +44,14 @@
 "","","R8","10K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGF1002TCE","","","","","",""
 "","","R9","2K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGF2001TCE","","","","","",""
 "","","R10","2K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGF2001TCE","","","","","",""
-"","","U1","SN74LVC1T45DBV","Logic_LevelTranslator:SN74LVC1T45DBV","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf","","","","","","","","","","","","","","","",""
+"","","TP1","5V","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"","","TP2","Shifted","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"","","TP3","12V","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"","","TP4","OnOff","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","","","","","","","","","",""
+"","","TP5","GND","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"","","U1","SN74LVC1T45DBV","Logic_LevelTranslator:SN74LVC1T45DBV","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf","","","","","","","","","","SN74LVC1T45DBV","","","","","",""
 "","","U2","LM2586SX-ADJ/NOPB_1","MarlinLib:LM2586SX-ADJ{slash}NOPB_1","Package_TO_SOT_SMD:TO-263-7_TabPin8","","","","","","","","","","","LM2586SX-ADJ/NOPB_1","","","","","",""
-"","","U3","DRV8871DDA","Driver_Motor:DRV8871DDA","Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","http://www.ti.com/lit/ds/symlink/drv8871.pdf","","","","","","","","","","","","","","","",""
+"","","U3","DRV8871DDA","Driver_Motor:DRV8871DDA","Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","http://www.ti.com/lit/ds/symlink/drv8871.pdf","","","","","","","","","","DRV8871DDA","","","","","",""
 
 
 
@@ -78,6 +83,11 @@
 "23","1","R7","30K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGD3002TCE","","","","","",""
 "24","1","R8","10K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGF1002TCE","","","","","",""
 "25","2","R9, R10","2K","Device:R_Small_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","0402WGF2001TCE","","","","","",""
-"26","1","U1","SN74LVC1T45DBV","Logic_LevelTranslator:SN74LVC1T45DBV","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf","","","","","","","","","","","","","","","",""
-"27","1","U2","LM2586SX-ADJ/NOPB_1","MarlinLib:LM2586SX-ADJ{slash}NOPB_1","Package_TO_SOT_SMD:TO-263-7_TabPin8","","","","","","","","","","","LM2586SX-ADJ/NOPB_1","","","","","",""
-"28","1","U3","DRV8871DDA","Driver_Motor:DRV8871DDA","Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","http://www.ti.com/lit/ds/symlink/drv8871.pdf","","","","","","","","","","","","","","","",""
+"26","1","TP1","5V","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"27","1","TP2","Shifted","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"28","1","TP3","12V","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"29","1","TP4","OnOff","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","","","","","","","","","",""
+"30","1","TP5","GND","Connector:TestPoint","TestPoint:TestPoint_Pad_D1.5mm","~","","","","","","","","","","","","","","","",""
+"31","1","U1","SN74LVC1T45DBV","Logic_LevelTranslator:SN74LVC1T45DBV","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf","","","","","","","","","","SN74LVC1T45DBV","","","","","",""
+"32","1","U2","LM2586SX-ADJ/NOPB_1","MarlinLib:LM2586SX-ADJ{slash}NOPB_1","Package_TO_SOT_SMD:TO-263-7_TabPin8","","","","","","","","","","","LM2586SX-ADJ/NOPB_1","","","","","",""
+"33","1","U3","DRV8871DDA","Driver_Motor:DRV8871DDA","Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias","http://www.ti.com/lit/ds/symlink/drv8871.pdf","","","","","","","","","","DRV8871DDA","","","","","",""
